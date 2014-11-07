@@ -1,0 +1,18 @@
+[submodule "docker-vmx-environment"]
+	path = docker-vmx-environment
+	url = git@github.com:VISIONAI/docker-vmx-environment.git
+[submodule "docker-vmx-userdata"]
+	path = docker-vmx-userdata
+	url = git@github.com:VISIONAI/docker-vmx-userdata.git
+[submodule "docker-mcr-2014a"]
+	path = docker-mcr-2014a
+	url = git@github.com:VISIONAI/docker-mcr-2014a.git
+[submodule "docker-vmx-appbuilder"]
+	path = docker-vmx-appbuilder
+	url = git@github.com:VISIONAI/docker-vmx-appbuilder.git
+[submodule "docker-vmx-server"]
+	path = docker-vmx-server
+	url = git@github.com:VISIONAI/docker-vmx-server.git
+[submodule "docker-vmx-middle"]
+	path = docker-vmx-middle
+	url = git@github.com:VISIONAI/docker-vmx-middle.git
